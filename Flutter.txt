@@ -1,0 +1,2 @@
+# process for the fluter setup 
+# first insatll the andriod studio anddd
