@@ -55,7 +55,7 @@ class MyWidget extends StatelessWidget {
                 child: Column(
                   children: [
                     const Text(
-                      "Everyone Flutter  so Easy",
+                      "Everyone Flutter is so Easy and Good",
                       style: TextStyle(
                         fontSize: 25,
                         fontWeight: FontWeight.bold,
